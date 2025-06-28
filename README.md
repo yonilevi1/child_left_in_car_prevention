@@ -113,6 +113,12 @@ This is the complete schematic combining all modules:
 - **Standard lab equipment** – Power supplies, sensors, amplifiers
 
 ---
+## 📋 Bill of Materials (BOM)
+
+Below is the list of components used in this project:
+
+![Bill of Materials](Images/BOM_list.png)
+
 
 ## 📁 Repository Structure
 
