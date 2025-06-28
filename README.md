@@ -95,6 +95,28 @@ This is the complete schematic combining all modules:
 ![Overall Circuit](Circuits/circuit.png)
 
 ---
+## 🖼️ Physical Prototype
+
+Below are photos of the implemented system on breadboards, demonstrating the final physical build:
+
+### 🔧 Full System Overview
+![Full System Overview](Images/Real.jpeg)
+
+---
+
+### 🔧 Control Block
+![Control Block](Images/Real_control_block.jpeg)
+
+---
+
+### 🔧 Temperature, Analog and Message Blocks
+![Temperature, Analog and Message Blocks](Images/Real_tem_anad_message.jpeg)
+
+---
+
+### 🔧 7-Segment Display Connections
+![7-Segment Display Connections](Images/Real_7.jpeg)
+
 
 ## 🔧 Features
 
