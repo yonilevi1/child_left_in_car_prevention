@@ -87,12 +87,14 @@ Below are the schematics for the main blocks of the system:
 ![Message System](Circuits/message_system.png)
 
 ---
+
 ### 📝 Overall System Circuit
 
 This is the complete schematic combining all modules:
 
 ![Overall Circuit](Circuits/circuit.png)
 
+---
 
 ## 🔧 Features
 
@@ -113,12 +115,39 @@ This is the complete schematic combining all modules:
 - **Standard lab equipment** – Power supplies, sensors, amplifiers
 
 ---
+
 ## 📋 Bill of Materials (BOM)
 
 Below is the list of components used in this project:
 
-![Bill of Materials](BOM_list.png)
+![Bill of Materials](Images/BOM_list.png)
 
+---
 
 ## 📁 Repository Structure
+child_left_in_car_prevention/
+├── README.md
+├── Images/
+│ ├── temperature_vs_time.png
+│ └── BOM_list.png
+├── Circuits/
+│ ├── control_block.png
+│ ├── belts_sensors.png
+│ ├── 7seg_system.png
+│ ├── temperature_block.png
+│ ├── message_system.png
+│ └── circuit.png
+├── BOM/
+│ └── bill_of_materials.xlsx
 
+
+---
+
+## 👤 Author
+
+**Yonatan Levi**  
+Electrical & Electronics Engineering Student
+
+---
+
+*This project is part of my undergraduate hardware design portfolio aimed to improve child safety in vehicles.*
