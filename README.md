@@ -125,6 +125,7 @@ Below is the list of components used in this project:
 ---
 
 ## 📁 Repository Structure
+
 child_left_in_car_prevention/
 ├── README.md
 ├── Images/
