@@ -117,7 +117,7 @@ This is the complete schematic combining all modules:
 
 Below is the list of components used in this project:
 
-![Bill of Materials](Images/BOM_list.png)
+![Bill of Materials](BOM_list.png)
 
 
 ## 📁 Repository Structure
