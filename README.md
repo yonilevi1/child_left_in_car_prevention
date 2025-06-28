@@ -146,7 +146,6 @@ Below is the list of components used in this project:
 
 ---
 
-## 👤 Author
 
 ## 👤 Authors
 
