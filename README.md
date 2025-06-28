@@ -148,9 +148,13 @@ Below is the list of components used in this project:
 
 ## 👤 Author
 
-**Yehonatan Levi**  
-Electrical & Electronics Engineering Student
+## 👤 Authors
+
+- **Yehonatan Levi** – Electrical & Electronics Engineering Student
+- **Daniel Cohen** – Electrical & Electronics Engineering Student
+
 
 ---
 
-*This project is part of my undergraduate hardware design portfolio aimed to improve child safety in vehicles.*
+*This project is part of our undergraduate hardware design portfolio aimed to improve child safety in vehicles.*
+
