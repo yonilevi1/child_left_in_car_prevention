@@ -73,11 +73,6 @@ Below are the schematics for the main blocks of the system:
 
 ---
 
-### 📝 7-Segment Display System
-![7SEG System](Circuits/7seg_system.png)
-
----
-
 ### 📝 Temperature Monitoring Block
 ![Temperature Block](Circuits/temperature_block.png)
 
@@ -85,6 +80,11 @@ Below are the schematics for the main blocks of the system:
 
 ### 📝 Message Alert System
 ![Message System](Circuits/message_system.png)
+
+---
+
+### 📝 7-Segment Display System
+![7SEG System](Circuits/7seg_system.png)
 
 ---
 
@@ -121,26 +121,6 @@ This is the complete schematic combining all modules:
 Below is the list of components used in this project:
 
 ![Bill of Materials](Images/BOM_list.png)
-
----
-
-## 📁 Repository Structure
-
-child_left_in_car_prevention/
-├── README.md
-├── Images/
-│ ├── temperature_vs_time.png
-│ └── BOM_list.png
-├── Circuits/
-│ ├── control_block.png
-│ ├── belts_sensors.png
-│ ├── 7seg_system.png
-│ ├── temperature_block.png
-│ ├── message_system.png
-│ └── circuit.png
-├── BOM/
-│ └── bill_of_materials.xlsx
-
 
 ---
 
