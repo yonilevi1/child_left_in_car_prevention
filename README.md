@@ -10,7 +10,7 @@ This project is a **hardware-based electronic system** designed to detect when a
 
 In recent years, **many cases of children being forgotten in cars** have been reported, sometimes leading to death within minutes due to the greenhouse effect. Even on mild days, the temperature inside a closed vehicle can rise dangerously fast, often by tens of degrees within a few minutes.
 
-![Temperature Rise in a Closed Car Over Time](child_left_in_car_prevention/Images/temperature_vs_time.png)
+![Temperature Rise in a Closed Car Over Time](Images/temperature_vs_time.png)
 
 As shown in the graph above, **the internal temperature can increase by more than 10°C within just 10 minutes**, reaching dangerous levels that can lead to heat stroke or death, especially for children.
 
