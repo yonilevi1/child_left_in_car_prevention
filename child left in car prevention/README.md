@@ -92,6 +92,12 @@ Below are the schematics for the main blocks of the system:
 ![Message System](Circuits/message_system.png)
 
 ---
+### 📝 Overall System Circuit
+
+This is the complete schematic combining all modules:
+
+![Overall Circuit](Circuits/circuit.png)
+
 
 ## 🔧 Features
 
